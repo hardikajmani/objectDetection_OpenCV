@@ -7,6 +7,6 @@ So here use of openCv is demonstrated with the help a simple looking but challen
 This code takes an image is input then performs the preprocessing steps to make it readable for the model.
 Select the largest contours in the image, cirlce it.
 Then select the largest strawberry and correct the remaining ones.
-Apply gaussian blur and other filters to seperate the image from the background
+Apply gaussian blur and other filters to seperate the image from the background.
 Output the final image.
 
